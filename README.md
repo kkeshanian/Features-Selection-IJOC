@@ -1,6 +1,6 @@
 # Features-Selection-IJOC
 
-This repository contains the data use in the for the paper entitled "Features Selection as a Nash-Bargaining Solution: Applications in Online Advertising and Information Systems"; see INFOMRS Journal on Computing (IJOC). 
+This repository contains the datasets use in the for the paper entitled "Features Selection as a Nash-Bargaining Solution: Applications in Online Advertising and Information Systems"; see INFOMRS Journal on Computing (IJOC). 
 
 This repository contains 4 folders:
 -	The “Online display Dataset” is used in Section 5 of the paper.  In this folder, we have included a statement how the dataset can be obtained. 
